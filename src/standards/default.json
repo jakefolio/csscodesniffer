@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "brace-alignment": "align",
+    "consistent-quotes": "double",
+    "indention": "4:space",
+    "last-semicolon": "required",
+    "newline-after-declaration": "newline",
+    "quote-attribute-selectors": "single",
+    "selector-line": "newline",
+    "selector-name": "hyphen",
+    "singline-declaration": "oneproperty",
+    "space-brace": "space",
+    "space-colon": "space"
+  }
+}
