@@ -11,6 +11,10 @@ var sniffer = new CSSCodeSniffer(parser, ruleset);
 CSSCodeSniffer.run(source, reporter);
 ```
 
+```shell
+csscs /path/to/css/file.css
+```
+
 ## Documentation
 _(Coming soon)_
 
@@ -26,9 +30,6 @@ There are a few projects that inspired my work on CSS Code Sniffer:
 If you plan on contributing for CSS Code Sniffer, we just ask that you submit a Pull Request from your forked repo with passing tests to verify your additions/fixes.
 
 Also, contributing is not strictly limited to code pull requests. We need plenty of bug submissions, documentation updating, and any other quality assurance tests.
-
-## Release History
-_(Nothing yet)_
 
 ## To Do
 - Finish Rule Tests
