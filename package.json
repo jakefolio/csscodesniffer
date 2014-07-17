@@ -1,7 +1,7 @@
 {
   "name": "csscodesniffer",
   "description": "Verify that code standards are being properly followed with code sniffs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jakefolio/csscodesniffer",
   "author": {
     "name": "Jake Smith",
