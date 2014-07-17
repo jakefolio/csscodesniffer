@@ -48,6 +48,7 @@ var cli = {
         results = command.parse(process.argv);
 
         if (results.args.length === 0) {
+            command.help();
             return;
         }
 
