@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var command = require('commander');
 var CSSCodeSniffer = require('./csscodesniffer');
 var fs = require('fs');
